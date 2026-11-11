@@ -1,0 +1,4 @@
+interface:
+  display_name: "Ads Insights"
+  short_description: "亚马逊广告诊断、放量收缩与可回滚优化实验"
+  default_prompt: "Use $ads-insights to analyze my Amazon advertising reports and produce quantified actions with exposure guardrails."
